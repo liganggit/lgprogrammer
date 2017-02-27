@@ -14,10 +14,10 @@
 return array(
 		// 数据库配置
         'DB_TYPE'   => 'mysql', // 数据库类型
-        'DB_HOST'   => '127.0.0.1', // 服务器地址
-        'DB_NAME'   => 'lgprogrammer', // 数据库名
-        'DB_USER'   => 'root', // 用户名
-        'DB_PWD'    => 'root',  // 密码
+        'DB_HOST'   => 'w.rdc.sae.sina.com.cn', // 服务器地址
+        'DB_NAME'   => 'app_lgprogrammer', // 数据库名
+        'DB_USER'   => 'wy5k44j3n2', // 用户名
+        'DB_PWD'    => 'lwzxl3jzx4hh1xxx3mwz4145jkx1k1zxxxl5hjii',  // 密码
         'DB_PORT'   => '3306', // 端口
         'DB_PREFIX' => 'wp_', // 数据库表前缀
 		'DB_PARAMS' => array (
