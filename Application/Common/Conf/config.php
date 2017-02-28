@@ -18,14 +18,14 @@ return array(
         'DB_NAME'   => 'app_lgprogrammer', // 数据库名
         'DB_USER'   => 'wy5k44j3n2', // 用户名
         'DB_PWD'    => 'lwzxl3jzx4hh1xxx3mwz4145jkx1k1zxxxl5hjii',  // 密码
-        'DB_PORT'   => '3306', // 端口
+        'DB_PORT'   => '3307', // 端口
         'DB_PREFIX' => 'wp_', // 数据库表前缀
 		'DB_PARAMS' => array (
 				\PDO::ATTR_CASE => \PDO::CASE_NATURAL 
 		),
 		
 		// 系统数据加密设置
-		'DATA_AUTH_KEY' => '/<*jJy15hl,Eu^A~pkG@I!F.YMsW}vQxV&Kmf$N3', // 默认数据加密KEY
+		'DATA_AUTH_KEY' => 'nKgEY:fm6[t`<jUr-]C~S5X;D=G8+_H4.a2p}F3!', // 默认数据加密KEY
 		                                                               
 		// 调试配置
 		'SHOW_PAGE_TRACE' => false,
